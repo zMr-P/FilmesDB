@@ -34,7 +34,8 @@ Tabela responsável por representar um relacionamento do tipo muitos para muitos
 Executar o arquivo **Script Filmes.sql** em seu banco de dados SQL Server, presente na pasta Scripts deste repositório ([ou clique aqui](Script%20Filmes.sql)). Esse script irá criar um banco chamado **Filmes**, contendo as tabelas e os dados necessários.
 
 ## Objetivo
-Criar diversas consultas, com o objetivo de retornar os dados a seguir. Abaixo de cada pedido tem o retorno esperado.
+Criar diversas consultas, com o objetivo de retornar os dados a seguir.  
+Abaixo de cada pedido tem o retorno esperado.
 
 ## 1 - Buscar o nome e ano dos filmes
 
