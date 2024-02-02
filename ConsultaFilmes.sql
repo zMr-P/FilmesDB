@@ -85,7 +85,7 @@ SELECT F.Nome,
        FROM Filmes F
        INNER JOIN FilmesGenero on F.Id = FilmesGenero.IdFilme
        INNER JOIN Generos G on G.ID = FilmesGenero.IdGenero 
-       WHERE Genero = 'Mist rio'
+       WHERE Genero = 'Mistério'
 
 -- 12 \\
 
